@@ -1,12 +1,12 @@
 # AI Agent Project
 
-An AI-powered conversational agent built using Python and Google's Agent Development Kit (ADK). This project demonstrates the implementation of an intelligent AI agent capable of processing user prompts and generating AI-driven responses using the Gemini API.
+An AI-powered math tutor agent built using Python and Google's Agent Development Kit (ADK). This project demonstrates the implementation of an intelligent AI agent capable of processing user prompts consisting of math problems and generating AI-driven responses using the Gemini API to help the user learn algebra by guiding them through problemsolving steps
 
 ---
 
 ## Features
 
-- AI-powered conversational agent
+- AI-powered math tutor agent
 - Built using Python and Google ADK
 - Gemini API integration
 - Modular and beginner-friendly project structure
